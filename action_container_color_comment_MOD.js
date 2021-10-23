@@ -53,9 +53,9 @@ module.exports = {
 
   html(isEvent, data) {
     return `
-<div style="padding-bottom: 5%; float: left; width: 99%;">
+<div>
   Text Color:<br>
-  <input type="color" id="color"><br>
+  <input type="color" id="color" value="#f2f2f2"></div>
   Comment<br>
   <input id="comment" class="round" type="text">
 </div>
