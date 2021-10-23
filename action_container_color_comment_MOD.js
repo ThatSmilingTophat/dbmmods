@@ -62,7 +62,7 @@ module.exports = {
 
 <br><br>
 
-<action-list-input id="actions" height="calc(100vh - 300px)"></action-list-input>`;
+<action-list-input id="actions" height="calc(100vh - 345px)"></action-list-input>`;
   },
 
   //---------------------------------------------------------------------
